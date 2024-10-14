@@ -1,0 +1,8 @@
+.iso
+.cache
+lib/
+node_modules/
+*.o
+*.env
+*.log
+.idea/
